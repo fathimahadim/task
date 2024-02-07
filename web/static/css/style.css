@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea, input[type="file"], input[type="submit"] {
+    margin-bottom: 10px;
+}
